@@ -6,7 +6,7 @@ import Helper.Base;
 
 
 public class LoginPage extends Base{
-	
+	//satyaban mahunta
 	public By username=By.xpath("//input[@id='user-name']");
 	public By password=By.xpath("//input[@id='password']");
 	public By login=By.xpath("//input[@id='login-button']");
